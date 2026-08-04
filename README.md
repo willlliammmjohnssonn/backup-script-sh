@@ -6,3 +6,5 @@ Archive directory folder targets to zip in Bash.
 Clone this project and look at the source files:
 - `backup.sh`
 - `utils.sh`
+
+*Initialized by willlliammmjohnssonn workspace automation.*
